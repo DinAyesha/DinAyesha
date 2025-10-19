@@ -1,6 +1,7 @@
-<div align="center">
+![Header Image](https://raw.githubusercontent.com/DinAyesha/DinAyesha/main/github-header-banner.png)
 
-## 🌐 Socials
+
+<div align="center">
 
 <a href="https://www.facebook.com/ayesha.din.jannat.2024" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" width="150" height="30"/>
